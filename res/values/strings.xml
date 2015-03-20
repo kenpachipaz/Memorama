@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memorama</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="intentos">Intentos:</string>
+    <string name="salir">Salir</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="intento">0</string>
+    <string name="acerca">Acerca De</string>
+    <string name="scores">Scores</string>
+    <string name="pausar">Pausar</string>
+    <string name="continuar">Continuar</string>
+    <string name="title_activity_acerca">Acerca</string>
+    <string name="regresar">Regresar</string>
+    <string name="title_activity_scores">Scores</string>
+    <string name="jugar">Jugar</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="nombre">ISC Manuel Paz Flores</string>
+    <string name="version">Versión 1.0</string>
+    <string name="fecha">Diciembre 2014</string>
+    <string name="materia">Desarrollo de aplicaciones móviles</string>
+
+</resources>
